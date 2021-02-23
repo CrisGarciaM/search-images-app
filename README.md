@@ -40,6 +40,7 @@ https://unsplash.com/developers
 - CSS
 - Axios
 - CSS Grid
+- Semantic UI
 - Unsplash API
 
 ## Author
